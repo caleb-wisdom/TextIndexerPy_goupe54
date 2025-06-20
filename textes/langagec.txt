@@ -1,0 +1,31 @@
+1. Introduction
+Le projet TextIndexerPy a pour objectif de concevoir un outil en ligne de commande permettant de charger, analyser et indexer un ensemble de fichiers texte. Il vise à offrir une interface efficace pour la recherche d'informations textuelles par mots-clés, avec des fonctionnalités de classement par pertinence.
+2. Architecture & Conception
+Le système est divisé en cinq modules principaux :
+- document_loader.py : lecture et prétraitement des fichiers.
+- indexer.py : création de l'index inversé.
+- search_engine.py : recherche de mots et calcul de scores.
+- retrieval.py : tri et affichage des résultats.
+- stats.py / main_cli.py : calculs statistiques et interface utilisateur.
+Les documents sont représentés en mémoire sous forme de dictionnaires et de listes de mots nettoyés.
+3. Description des Modules
+Module 1 – Chargement et Prétraitement :
+Responsable de lire les fichiers, de les nettoyer (minuscules, suppression ponctuation) et de les transformer en listes de tokens.
+
+Module 2 – Indexation :
+Construit l’index inversé sous forme de dictionnaire de mots vers des positions dans les documents.
+
+Module 3 – Recherche :
+Permet la recherche par mot ou expression, calcule la pertinence selon la fréquence des termes (TF).
+
+Module 4 – Tri et Affichage :
+Trie les documents selon le score de pertinence et extrait les snippets.
+
+Module 5 – Statistiques et CLI :
+Affiche des statistiques globales (nombre de documents, mots fréquents, etc.).
+4. Analyse de Complexité
+- Indexation : O(N), où N est le nombre total de mots dans tous les documents.
+- Recherche d’un mot : O(1) pour accéder à l’entrée dans le dictionnaire.
+- Recherche multiple : O(k) où k est le nombre de mots recherchés.
+- Tri des résultats : O(n log n) pour n documents pertinents.
+

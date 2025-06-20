@@ -1,0 +1,45 @@
+TextIndexerPy est un outil pédagogique complet permettant de mettre en œuvre les bases de la recherche 
+nterface en ligne de commande (menu, saisie des commandes)
+pour interagir avec le système.
+ Auto-apprentissage : Manipulation de fichiers JSON, conception
+d'interface textuelle.
+5. Rapport du projet :
+o Introduction, architecture du système.
+o Description des structures de données choisies (pour les tables,
+schémas, index).
+o Détail des algorithmes de recherche et de tri implémentés.
+o Analyse de complexité des opérations CRUD, de recherche, et de tri.
+o Tests, diƯicultés, conclusion.
+PROJET 2 : ANALYSEUR DE TEXTE AVANCÉ AVEC INDEXATION ET RECHERCHE
+(TEXTINDEXERPY)
+1. Nom du projet : TextIndexerPy
+2. Description :
+Développer un outil en ligne de commande qui charge un ensemble de fichiers
+texte, les prétraite, construit un index inversé (mot -> liste des documents et
+positions où il apparaît), et permet ensuite d'eƯectuer des recherches de mots
+ou d'expressions simples, en classant les documents par pertinence basique.
+3. Fonctionnalités :
+o Charger plusieurs fichiers texte depuis un répertoire.
+o Prétraiter le texte : tokenisation (séparation en mots), normalisation
+(minuscules, suppression ponctuation basique).
+o Construire un index inversé (dictionnaire).
+o Calculer des statistiques : fréquence des mots, nombre de mots uniques.
+o Rechercher des documents contenant un ou plusieurs mots-clés.
+o Classer les documents trouvés par un score de pertinence simple (ex : TF
+- Term Frequency).
+o AƯicher des extraits des documents où les mots-clés apparaissent.
+4. Modules (5 étudiants):o Module 1: Chargement et Prétraitement des Fichiers
+(document_loader.py)
+ Fonctions pour lire le contenu des fichiers texte d'un dossier.
+ Fonctions pour le nettoyage du texte : tokenisation en mots,
+conversion en minuscules, suppression de la ponctuation.
+ Représentation des documents en mémoire (ex : liste de listes de
+mots).
+ Auto-apprentissage : Manipulation de chaînes, expressions
+régulières basiques pour la tokenisation/nettoyage.
+o Module 2: Construction de l'Index Inversé (indexer.py)
+ Fonction pour parcourir les documents prétraités et construire
+l'index inversé (un dictionnaire où les clés sont les mots et les
+valeurs des listes de (id_document, [positions])).
+ Calcul de la fréquence des termes (TF) pour chaque mot dans
+chaque document.d’information textuelle. Il offre un excellent cadre pour des évolutions futures vers des moteurs de recherche plus sophistiqués.

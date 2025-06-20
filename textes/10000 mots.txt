@@ -1,0 +1,2850 @@
+Dico des smileys smileys
+Smileys
+Les plus impatients peuvent tout de suite consulter La liste.
+
+Sources.
+Un petit dictionnaire des « émoticons » (en français, on préférera parfois dire « émoticônes »), aussi appelés « smiley », « smilies » au pluriel. Compilé à partir de nombreux messages et de dictionnaires trouvés sur l'Internet et à l'origine entièrement en anglais, je l'ai traduit personnellement, et très librement, sans savoir si les auteurs étaient d'accord...
+
+Pour les messages (le plus amusant ici est que pendant des années, il vous aurait été impossible de retrouver ces messages. Désormais, ils sont sur Google  :
+
+
+* <76@icus.UUCP>
+* <1990Sep11.102411.8537@diku.dk>
+* <39917@cci632.UUCP>
+* <1990Sep14.122955.558@diku.dk>
+* <9366@uhccux.uhcc.Hawaii.Edu>
+* <2005@unsvax.NEVADA.EDU>
+* <1991Mar18.212208.27911@odin.corp.sgi.com>
+* <$V5&&|$@cck.cov.ac.uk>
+* <1991May18.150401.771@csc.canterbury.ac.nz>
+Pour les auteurs :
+* David J. Rood [rooddj chez crtvax.vanderbilt.edu] via David Gundlach
+* David Gundlach [david chez marie.stat.uga.edu]
+* Andrew Williams [awilliam chez qucis.queensu.ca]
+* DJ Delorie [dj chez ctron.com]
+* Dave Straker [daves chez hpopd.pwd.hp.com]
+* Craig P McLaughlin [cpm00 chez duts.ccc.amdahl.com]
+* The Grey Wolf [greywolf chez unisoft.com]
+* Michael Cook [mlc%gva.decnet chez consrt.rockwell.com]
+* Po-Jen J. Yang [pyang chez rice.edu]
+* Peter da Silva [peter chez ficc.ferranti.com]
+* Charles J. Lord [cjl chez ecsvax.uncecs.edu]
+* Liron Lightwood [r.lightwood chez trl.oz.au]
+* Scott Bolte [scott chez craycos.com]
+* Karl A. Nyberg [karl chez grebyn.com]
+* Charles Boone [cboone chez cboone.com]
+
+Pour ce qui tenait plutôt carrément du dictionnaire : David W. Sanderson (dws chez cs.wisc.edu) et Jean Dumoulin (griffon chez ca.qc.ca).
+
+Il faut noter que malgré cette tentative d'honnêteté il est bien difficile d'attribuer un auteur à un smiley du fait des spécificités du principal moyen de diffusion des smilies à savoir Usenet. Usenet est en effet un énorme système distribué (de taille mondiale en fait) et les délais de transmission y sont très très variables. Supposons par exemple qu'un utilisateur A envoie un message à un correspondant B dans un dialogue public. Il est fort possible qu'un observateur C reçoive la réponse de B à A avant même de recevoir le premier message de A à B. Or, habituellement, on attribue une production intellectuelle à la première personne en ayant fait part au reste du monde. En l'occurrence, il est bien difficile de savoir qui a commencé... Multipliez le problème par plusieurs millions de messages sur des milliers de forums, et vous comprendrez qu'en fait, on ne peut tout simplement pas attribuer clairement un smiley à un auteur en particulier !
+
+La création des smilies.
+Les règles pour la rédaction (la création) de smilies sont très libres, et il existe beaucoup de « petits bonshommes qui rigolent » tout à fait personnels... le principe de base étant de chercher à représenter un visage avec une poignée de caractères courants. Dans nombre de documents originaux, l'utilisateur du smiley est référé par « user », ou par une troisième personne du singulier. J'ai préféré mettre tout cela à la première personne, car c'est comme cela qu'on les rencontre et qu'ils sont utilisés le plus souvent.
+
+Pour éviter les lourdeurs on peut se permettre de confondre le sourire d'un smiley avec la parenthèse qui le contient. Exemple : Tous les crétois sont des menteurs (D'ailleurs, je suis crétois :-).
+
+Voici les smilies de base, les plus courants, universellement connus sur le Net.
+
+:-)
+Votre smiley de base, le souriant, utilisé pour indiquer un passage sarcastique ou humoristique, puisqu'on n'entend pas les inflections de la voix sur le réseau. Si vous ne comprenez pas, penchez la tête sur le côté gauche...
+ 
+;-)
+Le clin d'oeil, pour les remarques sarcastiques « ne me frappez pas pour ce que je viens de dire ».
+ 
+:-(
+Un smiley renfrogné. On n'a pas aimé ce qui vient de se dire, ou bien on est triste.
+ 
+:-I
+Smiley indifférent. C'est mieux qu'un renfrogné, mais moins bien qu'un souriant.
+ 
+:->
+Je viens de faire une remarque très mordante (pire qu'un « :-) »).
+ 
+>:->
+Je viens de faire une remarque diabolique.
+ 
+>;->
+Le clin d'½il diabolique pour les remarques très lubriques.
+ 
+Il existe aussi des mega-smilies. Ce sont des émoticônes comme tous les autres, sauf qu'ils sont nettement plus longs. Ils peuvent même aller jusqu'à décrire des situations impliquant plusieurs personnes.
+
+C=}>;*{))
+Un chef bourré diabolique, avec moumoute à l'envers, moustache et double-menton.
+ 
+C=}>;*{O)
+Idem !
+ 
+#*!^*&:-)
+un schizophrène.
+ 
+M-) :X) :-M
+Je ne vois rien, je n'entends rien et je ne dis rien.
+ 
+===:[OO']>:===
+S'est fait passer dessus par un train.
+ 
+i-=<*** __.
+DANGER ! Possède un lance-flamme et l'utilise !
+ 
+i-=<****** o-(==<
+Idem.
+ 
+Certains smilies sont vus de face, comme celui-ci : "<@_@>", qui est censé représenter quelqu'un qui vous regarde de face indifféremment. Ici, il n'y a plus à tourner la tête sur le côté.
+
+Beaucoup de smilies peuvent aussi être tapés sans nez, pour faire des smilies « nains ».
+
+:)
+Smiley souriant nain.
+ 
+:]
+Il serait volontiers votre ami...
+ 
+D'autres smilies représentent non pas un visage, mais un corps humain tout entier, voire même quelque chose de tout à fait différent, comme une voiture, un camion, ou des animaux... Certains des smileys présents dans ce document sont même sexuellement explicites.
+
+Enfin, il existe des smilies qui représentent des visages vus sous un autre angle que de face. Les profils sont indiqués dans ce document par la mention "(profil)". Il s'agit en général du profil droit du smiley, à défaut de mention contraire.
+
+La listouille des souriards...
+Ceci est une liste des petits bonshommes qui rigolent. Il y en a environ 600, avec plus de 700 significations. Ils sont classés par ordre alphanumérique, mais bon, c'est pas vraiment pratique, alors rien de tel que 'F3' ou 'Ctrl+F' ! Depuis quelques temps, de plus, les toutes dernières binettes (comme disent les québécois) sont ajoutées en tête de liste.
+
+ 
+°°°(:)-)
+Un plongeur heureux (envoyé par Flore).
+ 
+@@@8-)
+Marge Simpson (envoyé par Flore).
+ 
+(8-(|)
+Homer Simpson (envoyé par Flore).
+ 
+§;@
+Une addition, en provenance de lavache.com : un portrait de Pâquerette...
+ 
+<°((((=<<
+Comme un poisson dans l'eau... On peut mettre une ligne de « ~ » juste au-dessus pour faire plus vrai.
+ 
+~o(:-)
+Spéléo, « avec la flamme d'acétylène et la lampe frontale au-dessus du casque ».
+ 
+)c:
+"Il est impossible d'obtenir la moindre oreille attentive de la part de France Telecom ou de son directeur, M. BON." (trouvé sur le net par nounours (lege2388@eurobretagne.fr)).
+ 
+@[_]
+Une tasse
+ 
+\_/
+Un verre vide
+ 
+=:o)
+Un gros nez et les cheveux en pétard (toutes variantes possibles)
+ 
+=;¬Þ
+Avec des caractères spéciaux (#0172 et #0222)
+ 
+@}-`--
+Une rose piquante
+ 
+\~/
+Un verre à moitié plein
+ 
+(::()::)
+Un pansement
+ 
+!-(
+Oeil au beurre noir
+ 
+!-|
+Oeil au beurre noir dans l'indifférence totale
+ 
+!.'v
+(profil) tête plate
+ 
+#-)
+J'ai fait la fête toute la nuit
+ 
+#:-)
+* Pour ceux qui ont les cheveux emmêlés, comme moi
+* J'ai les cheveux en pétard
+ 
+#:-o
+* Oh, noooooonnnn ! * J'ai les cheveux en pétard
+ 
+#:o+=
+Betty Boop
+ 
+$$
+pour les boulots académiques
+ 
+$$$
+pour les boulots du secteur privé
+ 
+$$$$
+Pour ceux qui démarrent leur entreprise
+ 
+$-)
+* J'ai gagné à la loterie
+* Un yuppie
+ 
+%')
+Après avoir bu un bon petit verre
+ 
+%*@:-(
+Pendu
+ 
+%*}
+Très bourré
+ 
+%+{
+J'ai pedu un combat
+ 
+%-(I)
+En train de rire très fort
+ 
+%-)
+* J'ai cassé mes lunettes
+* Je louche
+* Bourré et rigolard
+* Elephant man
+* Je suis devant mon écran depuis une quinzaine d'heures
+ 
+%-<I>
+Bourré en train de lire
+ 
+%-\
+Gargl
+ 
+%-^
+Picasso
+ 
+%-{
+Variation triste
+ 
+%-|
+J'ai travaillé toute la nuit
+ 
+%-}
+Variation heureuse
+ 
+%-~
+Picasso
+ 
+%-6
+Je suis mort
+ 
+%\v
+Picasso
+ 
+&-|
+Les yeux pleins de larmes
+ 
+&.(..
+En train de pleurer
+ 
+&:-)
+Cheveux bouclés
+ 
+'-)
+* Je suis borgne
+* Je n'ai qu'un oeil gauche, et en plus il est fermé
+* Clin d'oeil
+ 
+':-)
+je me suis rasé un sourcil accidentellement ce matin
+ 
+( o )( o )
+Huées
+ 
+(-)
+ai besoin d'une bonne coupe de cheveux
+ 
+(-:
+* Un Australien
+* Je suis gaucher
+ 
+(-::-)
+Frères siamois
+ 
+(-:|:-)
+Frères siamois
+ 
+(-_-)
+(de face) Sourire asiatique
+ 
+(-E:
+Lunettes à double foyer
+ 
+(-o-)
+Tie Fighter (La Guerre des étoiles)
+ 
+(:( =|
+Je porte un costume de fantôme
+ 
+(:)-)
+Plongée sous-marine
+ 
+(:+)
+Un gros nez
+ 
+(:-
+Smiley qui ne rigole pas du tout
+ 
+(:-#
+* Attention aux postillons !
+* J'ai dit quelque chose que je n'aurais pas dû
+* J'ai un appareil dentaire
+ 
+(:-$
+Malade
+ 
+(:-&
+En colère
+ 
+(:-(
+Je suis déçu
+ 
+(:-)
+* Grosse face / Chauve / Quelle bonne surprise !
+* J'ai un casque de vélo
+ 
+(:-*
+Bisou !
+ 
+(:-...
+Coeur brisé
+ 
+(:-\
+TRèS triste
+ 
+(:-{~
+Barbu
+ 
+(:-|K-
+Attiré formellement
+ 
+(:-D
+Incapable de garder un secret
+ 
+(:-I
+Crâne d'oeuf
+ 
+(:<)
+Incapable de garder un secret
+ 
+(:=)
+DEUX nez (?)
+ 
+(:>-<
+Au voleur ! Haut les mains !
+ 
+(:^(
+Nez cassé
+ 
+(:I
+je suis un crâne d'œuf
+ 
+(@ @)
+(de face) Tu déconnes ?!
+ 
+([(
+Robocop
+ 
+(}-8]
+barbu gaucher avec des lunettes et des écouteurs
+ 
+(00)
+mooning you
+ 
+(8-)
+Je porte des lunettes
+ 
+(8-o
+Mr. Bill
+ 
+(O--<
+Un petit poisson
+ 
+(V)=|
+Champion de Pacman
+ 
+):-(
+Gros visage triste
+ 
+)8-)
+Gros visage de plongeur
+ 
+**
+Pour les sports d'hiver en général
+ 
+*-(
+Cyclope ayant un oeil poché
+ 
+*-)
+Mort par balle
+ 
+*:*
+Je suis flou
+ 
+*:**
+Je suis flou avec une moustache floue
+ 
+*:o)
+Et Bozo le Clown !
+ 
+*<.'v
+(profil) un bonnet avec un pompon
+ 
+*<:-)
+Papa Noël
+ 
+*<|:-)
+Papa Noël
+ 
+*<|:-))
+Papa Noël (Ho Ho Ho)
+ 
+*<8-)X
+Tenue de fête avec un noeud papillon
+ 
+*|
+Oh quel beau coucher de soleil
+ 
+*L*
+Bourré (bituré)
+ 
++-(:-)
+* Leader religieux
+* Le Pape
+ 
++-:-)
+Je suis un prêtre
+ 
++:-)
+Je suis un autre prêtre
+ 
++<.'v
+(profil) Chevalier
+ 
++<:-)
+Que la paix soit avec vous, mes enfants...
+ 
++<:-|
+Moine/Nonne
+ 
++<||-)
+Chevalier
+ 
++O:-)
+Le Pape
+ 
+,-)
+Borgne... et qui fait un clin d'oeil
+ 
+,.'v
+(profil) Cheveux très courts
+ 
+,:-)
+Je me suis rasé le sourcil gauche ce matin
+ 
+- @=
+Message au sujet de la guerre nucléaire
+ 
+- -:-(
+Rocker punk (les vrais punks ne sourient pas)
+ 
+- -:-)
+Rocker punk
+ 
+-(
+On doit toujours porter des lunettes de sécurité, en particulier dans la salle du laser de haute énergie
+ 
+---...
+SOS (variante)
+ 
+---...---
+SOS (en fait OSO)
+ 
+-:-(
+Les vrais punks ne rient pas
+ 
+-:-)
+* Le dernier des Mohicans
+* Je suis un punk
+ 
+-=
+Bougie éteinte (pour terminer un flaming)
+ 
+-=#:-)
+Wizard
+ 
+->-
+Les billets d'avion sont de moins en moins chers
+ 
+->=:-)X
+Zippy the Pinhead
+ 
+.'!
+(profil) sévère - sinistre
+ 
+.',
+(profil) Faisant la moue
+ 
+.'\
+(profil) Faisant la gueule
+ 
+.'J
+(profil) Souriant
+ 
+.'P
+(profil) Tirant la langue
+ 
+.'r
+(profil) Tirant la langue
+ 
+.'T
+(profil) Garder un visage impassible
+ 
+.'U
+(profil) En train de bâiller
+ 
+.'V
+(profil) En train de crier
+ 
+.'v
+(profil) En train de parler
+ 
+.'w
+(profil) Parler avec une langue fourchue
+ 
+.'Y
+(profil) Siffler en travaillant...
+ 
+.-(
+Vous devriez porter toujours des lunettes de sécurité
+ 
+.-)
+* Borgne
+* Sammy Davis Jr.
+ 
+.-]
+Smiley cyclope
+ 
+...---...
+SOS
+ 
+.\/
+Coin coin
+ 
+.^v
+(profil) nez pointu
+ 
+/:-|
+Mr. Spock
+ 
+/;-)
+Un énorme sourcil
+ 
+/\
+Pour le camping et la randonnée
+ 
+/8^{~
+Front dégarni + lunettes + moustache + un goître
+ 
+:( )
+Je ne peux pas m'empêcher de parler
+ 
+: )
+Un lépreux
+ 
+:$)
+Donald Trump
+ 
+:%)
+Un comptable
+ 
+:%)%
+J'ai de l'acné
+ 
+:'-(
+Je pleure
+ 
+:'-)
+* Je pleure de rire
+* Je pleure de joie
+ 
+:(
+Triste
+ 
+:)
+Heureux
+ 
+:*
+Bisous
+ 
+:*)
+* Bourré et souriant
+* Souriant avec une moustache
+ 
+:+(
+Coup de poing dans le nez. Aïe !
+ 
+:,(
+Je pleure
+ 
+:-
+Programmer en PROLOG
+ 
+:-!
+Visage impassible
+ 
+:-,
+* Gros fumeur
+* Faisant la moue
+ 
+:-#
+* Mes lèvres sont scellées
+* Coup de poing dans la bouche
+* Je porte un appareil dentaire
+ 
+:-#|
+J'ai une moustache
+ 
+:-$
+* Mes lèvres sont scellées
+* Incertitude
+ 
+:-%
+* Banquier
+* Barbu
+* Parler avec les coins de la bouche
+ 
+:-&
+Smiley muet
+ 
+:-'
+Fumeur
+ 
+:-'|
+J'ai attrappé froid
+ 
+:-( )
+Vous avez garé votre voiture sur mon pied !
+ 
+:-( :-
+impuissant (ou détendu)
+ 
+:-(
+* Bouhou !!
+* Quel drame...
+* Je fais la gueule
+* Fou (?)
+* Simplement triste
+ 
+:-( )
+Vous m'avez marché sur le pied
+ 
+:-()
+Je me suis cassé un orteil
+ 
+:-(*)
+Malade et sur le point de vomir
+ 
+:-(=)
+Grandes dents
+ 
+:-(0)
+En train de crier
+ 
+:-(O)
+En train de crier
+ 
+:-),
+Le nombril qui ressort
+ 
+:-) -:
+J'ai une érection
+ 
+:-) -^-:
+Besoin de chirurgie esthétique
+ 
+:-) :-...
+En train de faire pipi...
+ 
+:-) <
+Salope
+ 
+:-) < ... :-) < ... :-) <
+nymphomane
+ 
+:-) >
+Célibataire féminine
+ 
+:-) )-:
+Commentaires théâtraux masquées...
+ 
+:-) ... :-( ... :-) ... :-( ...
+Maniaco-dépressif
+ 
+:-) 8 -
+Femme
+ 
+:-)'
+Baveux
+ 
+:-))
+Double menton
+ 
+:-)))
+Triple menton (très gras)
+ 
+:-)--
+Un gringalet de 45 kg
+ 
+:-)-{8
+Je suis une Grande fille
+ 
+:-)-}8
+Je suis une Grande fille
+ 
+:-)-8
+Je suis une Grande fille
+ 
+:-)-O
+Docteur souriant avec un sthétoscope
+ 
+:-)==
+Arnold Schwarzenegger
+ 
+:-)}
+J'ai une barbe /un goître /un double menton
+ 
+:-)~
+Je bave
+ 
+:-)8
+* Noeud papillon
+* Je suis bien habillé
+ 
+:-)X
+Je porte un noeud papillon
+ 
+:-*
+* Oups ! (se couvrant la bouche avce la main)
+* J'ai mangé quelque chose d'aigre
+ 
+:-,
+* Hmmmm...
+* Un petit sourire satisfait
+ 
+:------)
+Gros menteur
+ 
+:-/
+Je suis sceptique / J'ai du mal à me décider
+ 
+:-:
+* Smiley mutant
+* Édenté
+ 
+:-<
+* Faire la gueule / Être vraiment très triste
+* Une moustache
+ 
+:-=)
+* Adolph Hitler
+* J'ai une moustache
+ 
+:->
+* Sarcasme mordant
+* J'ai un bec de lièvre
+ 
+:->
+* Content
+* Hey hey
+ 
+:->X==|
+Je suis habillé de façon formelle
+ 
+:-?
+* Smiley fumant la pipe
+* Je fume la pipe
+* Vrai ou faux ? Je me pose la question...
+ 
+:-@
+* Je le jure !
+* Une barbe permanentée
+* En train de hurler / de crier / très en colère
+ 
+:-[
+* Imbécile / crétin
+* Faisant la moue
+* Sarcastique
+* Je suis un vampire
+ 
+:-\ 8o
+Après une douche froide
+ 
+:-\
+* Popeye
+* Je suis hésitant
+ 
+:-]
+* Imbécile / crétin
+* Sarcastique
+ 
+:-`
+Je crache ma chique
+ 
+:-{ -__-:
+Après avoir rabattu un peu vite le siège des toilettes
+ 
+:-{
+J'ai une moustache
+ 
+:-{#}
+Pour ceux qui ont un appareil dentaire
+ 
+:-{)
+J'ai une moustache
+ 
+:-{}
+J'ai mis (beaucoup de) du rouge à lèvres
+ 
+:-{~
+Je manque quelque peu d'appétit
+ 
+:-|
+* Sévère
+* Un jour ordinaire... Indifférence totale...
+ 
+:-|8( )-
+Femme enceinte
+ 
+:-||
+En colère
+ 
+:-}
+* Mmmh ! C'est bon !
+* Barbu
+* Rouge à lèvres / Jolie bouche
+ 
+:-} -oo-:
+Prendre les choses en main...
+ 
+:-~)
+J'ai froid
+ 
+:-0
+* Pas de bruit ! (Quiet Lab)
+* Je ne trouve plus la touche shift !
+* Je suis un orateur
+ 
+:-1
+* Visage impassible
+* Smiley affable
+ 
+:-6
+* J'ai mangé quelque chose d'aigre
+* Je suis crevé
+* J'ai trop couru, je suis essoufflé
+ 
+:-7
+* Je fume la pipe
+* Parler du coin de la bouche (confier un secret)
+* Je suis désabusé (wry)
+ 
+:-8
+confier des secrets par les deux coins de la bouche
+ 
+:-8(
+Regard condescendant
+ 
+:-9
+* Je me lèche les babines
+* Miam ! Miam !
+ 
+:-a
+Un gaucher touchant son nez avec sa langue
+ 
+:-B
+Baveux
+ 
+:-b
+Je tire la langue à gauche
+ 
+:-C
+Complètement incroyable !
+ 
+:-c
+* Très très malheureux
+* Je suis vraiment minable
+ 
+:-d
+Vous venez de vous faire mettre en boîte
+ 
+:-D
+* Grand sourire / Je parle trop
+* Je rie (de vous !)
+ 
+:-d~
+Gros fumeur
+ 
+:-E
+* Vampire ayant des dents proéminentes
+* Vampire à dents de lapin
+ 
+:-e
+Je suis déçu
+ 
+:-F
+Vampire auquel il manque une dent
+ 
+:-f
+Tirant la langue
+ 
+:-G-
+Fumant une cigarette
+ 
+:-I
+* Hmm...
+* Indifférent
+* Pensif
+ 
+:-i
+Semi-smiley
+ 
+:-j
+Sourire à gauche
+ 
+:-J
+Commentaire ironique (tongue-in-cheek)
+ 
+:-l
+y. a. s. (Yet Another Smiley. Voir yacc)
+ 
+:-M
+speaking no evil
+ 
+:-o ^^^^:
+Après avoir remonté sa braguette trop vite
+ 
+:-O
+* La naissance
+* Whaou !
+ 
+:-o
+* Oh oh !
+* Surprise / Choqué
+* Je chante un hymne (national ou pas)
+* Je bâille
+ 
+:-O>-o
+Touriste américain (bouche ouverte et appareil de photo)
+ 
+:-P
+* J'ai un secret à te dire
+* Nyah nyah
+* Nyahhhh !
+* Je vous tire la langue
+* Tirer la langue par anticipation
+ 
+:-p
+Je vous tire la langue
+ 
+:-p~
+Gros fumeur
+ 
+:-q
+J'essaye de toucher mon nez avec la langue
+ 
+:-Q
+Je suis fumeur
+ 
+:-Q~
+Je fume
+ 
+:-R
+J'ai la grippe
+ 
+:-r
+Je tire la langue
+ 
+:-s
+Après un commentaire BIZARRE
+ 
+:-S
+J'ai dit n'importe quoi
+ 
+:-t
+Smiley croisé
+ 
+:-T
+Je garde un visage impassible
+ 
+:-V
+En train de crier
+ 
+:-v
+En train de parler
+ 
+:-W
+Parler avec une langue fourchue
+ 
+:-w
+Parler avec une langue fourchue
+ 
+:-X
+* Un gros bisou tout mouillé !
+* Un noeud papillon
+* Mes lèvres sont scellées
+* Encore un coup de la censure
+ 
+:-y
+Dit avec un sourire
+ 
+:-z
+Encore un autre smiley croisé
+ 
+:/)
+Ce n'est pas drôle
+ 
+:/7)
+Cyrano de Bergerac
+ 
+:/i
+Interdiction de fumer
+ 
+::-)
+J'ai des lunettes
+ 
+:<
+* Midget unsmiley
+* Quoi ?
+ 
+:<()
+D'une tribu africaine
+ 
+:<)
+D'une école de l'Ivy League
+ 
+:<)=
+Idem avec une barbe
+ 
+:<|
+étudie dans une école de l'Ivy League
+ 
+:= |
+Babouin
+ 
+:=)
+J'ai deux nez
+ 
+:=8)
+Babouin
+ 
+:>
+* Hmm, laissez-moi y réfléchir...
+* Midget smiley
+* Quoi ?
+ 
+:>)
+Gros nez
+ 
+:?)
+Philosophe
+ 
+:@
+Quoi ?
+ 
+:@)
+Cochon
+ 
+:[
+Très triste
+ 
+:^(
+S'est fait à moitié arracher le nez. Utile pour répondre aux flames
+ 
+:^)
+* Vue de 3/4 d'un elfe
+* Smiley avec le nez qui pointe à droite
+* J'ai le nez cassé
+ 
+:^{
+Pour ceux qui ont une moustache
+ 
+:^{)>
+Moustache et barbe
+ 
+:^D
+Chouette, j'adore ça !
+ 
+:_)
+Mon nez est en train de quitter mon visage
+ 
+:{
+* Oh merde, le surgé !...
+* Quoi ?
+ 
+:}
+Vraiment besoin d'une explication ?
+ 
+:~(
+S'est fait casser le nez
+ 
+:~)
+* Besoin de chirurgie esthétique
+* Nez disgrâcieux / Nez qui pointe à droite
+ 
+:~-(
+* En train de pleurer
+* Pleurer de rire
+ 
+:~/
+Vraiment déboussolé
+ 
+:3-<
+Un chien
+ 
+:8)
+Un cochon
+ 
+:C
+Quoi ?
+ 
+:c)
+Variante sur le gros nez
+ 
+:c<
+Variante sur le gros nez
+ 
+:D
+Rire (à gorge déployée)
+ 
+:I
+* Hmmm, c'est pas drôle !
+* Hmmm...
+ 
+:n)
+J'ai un drôle de nez qui pointe à droite.
+ 
+:O
+Je crie
+ 
+:Q
+Quoi ?
+ 
+:q
+Utilisateur de vi disant : Comment on sort de ce foutu éditeur Emacs ?
+ 
+:u)
+Drôle de nez qui pointe à droite
+ 
+:Ui
+En train de fumer
+ 
+:Uj
+En train de fumer et de sourire
+ 
+:V
+Pivert
+ 
+:v)
+* Nez qui pointe à gauche
+* Nez cassé qui pointe à gauche
+ 
+:X)
+hearing no evil
+ 
+;-(
+* Oeil au beurre noir
+* En train de pleurer
+* Triste ou fou, et en plus un oeil au beurre noir
+ 
+;-) ===8
+Circoncis
+ 
+;-)
+* À force de raconter des blagues, il s'est fait cogner
+* S'est fait tabasser
+* Un pirate qui sourit
+* Je pleure de rire
+* Incrédulité sardonique
+* Clin d'oeil
+ 
+;-) o===8
+Frimeur
+ 
+;-\
+Popeye avec un oeil au beurre noir
+ 
+;-|
+* Oeil au beurre noir indifférent
+* Il ne dit rien mais se prend un pain quand même
+ 
+;-}
+Regard concupiscent ? (cela dépend du terminal)
+ 
+;-D
+Un smiley amical, souriant, qui fait un clin d'oeil
+ 
+;^?
+Vraiment bien cassé la gueule
+ 
+<&&>
+Message concernant les poulets en caoutchouc (?)
+ 
+<*:oDX
+Un clown sympathique
+ 
+<:-(
+* Je suis déçu
+* Le cancre
+ 
+<:-)
+* Questions idiotes
+* Paysan Vietnamien
+ 
+<:-)<<|
+Je suis dans une fusée spatiale
+ 
+<:-I
+* Un âne
+* Je suis un cancre
+ 
+<:-O
+Eeek !
+ 
+<:>==
+Une dinde
+ 
+<:I
+Un petit cancre
+ 
+<<<<(:-)
+Un vendeur de chapeaux
+ 
+<=
+Location à la montagne
+ 
+<{:-)}
+Je suis dans une bouteille
+ 
+<|-(
+Chinois et pas content
+ 
+<|-(=
+Chinois (âgé : il a une barbe) et pas content
+ 
+<|-)
+Chinois
+ 
+<|-)=
+Chinois barbu
+ 
+<I==I)
+Sur quatre roues
+ 
+=)
+Variation sur un thème
+ 
+=):-)
+Oncle Sam
+ 
+=.'v
+(profil) le dernier des mohicans
+ 
+=:-#}
+Punk avec une moustache
+ 
+=:-(
+Punk (les vrais punks ne rient pas)
+ 
+=:-)
+Je suis punk
+ 
+=:-H
+Joueur de football (US)
+ 
+==#==
+Passage à niveau
+ 
+=====:}
+Serpent
+ 
+=|:-)
+Abe Lincoln (rasé)
+ 
+=|:-)=
+Abe Lincoln
+ 
+=0==
+Un Mexicain sur les rails !
+ 
+=t==
+Un Mexicain écrasé par un train
+ 
+>-
+Femelle
+ 
+>-<
+Absolument furieux !!
+ 
+>->
+Un chinois
+ 
+>-^);>
+Un petit poisson
+ 
+>:)
+Un petit diable
+ 
+>:*)
+Bozo le Clown
+ 
+>:-(
+* Fou ennuyé
+* Malade et fatigué de lire ces conneries
+ 
+>:-( 8*>-
+Pour les opinions désobligeantes sur les féministes
+ 
+>:-)
+Diabolique
+ 
+>:-<
+Fou
+ 
+>:->
+Diabolique
+ 
+>:-b
+Je tire la langue à gauche
+ 
+>:-I
+net.startrek
+ 
+>:^(
+Chasseur de tête
+ 
+>;-)
+Clin d'oeil diabolique
+ 
+>;->
+Clin d'oeil extrêmement diabolique
+ 
+>>-O->
+General Custer
+ 
+>>>:=====
+Une asperge
+ 
+>[I
+Television
+ 
+>|(
+Robocop : Merci de votre coopération.
+ 
+>|->
+Chinois
+ 
+>w
+Un petit pied-de-nez
+ 
+?-(
+Un oeil au beurre noir
+ 
+?:_)
+J'ai une houppe
+ 
+@%&$%\&*@%$#@
+Même sens que dans les BD...
+ 
+@-(
+Ulysse ! Amenez-moi Ulysse !
+ 
+@-)
+Cyclope
+ 
+@.'v
+(profil) J'ai des cheveux bouclés
+ 
+@:-)
+* Indien (de l'Est)
+* Cheveux bouclés
+ 
+@:I
+Turban
+ 
+@=
+Flame au sujet de la guerre nucléaire (et des champignons)
+ 
+@>--->---
+Une rose
+ 
+@l@
+Passé trop de temps devant le terminal
+ 
+@O=E<=
+Fille en jupe et pull à col roulé
+ 
+[:-)
+Je porte un walkman
+ 
+[:-]
+Tête carrée
+ 
+[:]
+Je suis un robot
+ 
+[:|]
+robot (ou projet en IA)
+ 
+[=
+Se loger en Arizona
+ 
+[]
+Hug !
+ 
+[8-{)
+Je suis barbu, avec des lunettes et un casque
+ 
+\:-)
+Béret
+ 
+\:^)
+gumby smiley (?)
+ 
+\o/
+Priez le seigneur (le saigneur ?)
+ 
+]:-)
+Le Diable
+ 
+]:->
+Le Diable
+ 
+^(^
+(de face) Tout joyeux !
+ 
+(ô¿ô)
+(de face) Smiley perso envoyé par un certain Laurent, qui l'utilisait pour repérer ses pages dans les moteurs de recherche.
+ 
+ö_ô
+(de face) Un sourcil plus haut que l'autre ! (signalé par un lecteur dont l'adresse était invalide)
+ 
+^)^ ^(^
+(de face) 2 personnes qui parlent
+ 
+^L^
+(de face) Heureux
+ 
+^v^v^
+Des montagnes
+ 
+_:^)
+Indien d'Amérique
+ 
+_\\//
+Le salut de Vulcain
+ 
+__Q~`__
+Un chat
+ 
+`:-)
+Je me suis rasé le sourcil droit
+ 
+{ :-)
+Marge Simpson
+ 
+{
+Alfred Hitchcock
+ 
+{(:-)
+Je porte une moumoute
+ 
+{:-)
+* Nouvelle coupe de cheveux
+* J'ai une raie au milieu
+* J'ai une moumoute
+ 
+{:-{)}
+Nouvelle coupe de cheveux, de moustache et de barbe
+ 
+{:\/
+Coin ! Coin !
+ 
+{:^=(
+Adolph Hitler
+ 
+{=
+La petite maison dans la prairie
+ 
+{{-}}}
+Un réfugié des années 60
+ 
+{}
+'No comment'
+ 
+{0-)
+Cyclope
+ 
+|)
+Salamandre
+ 
+|-(
+* Endormi, mais avec des cauchemars
+* Il se fait tard
+ 
+|-)
+* Je dors debout
+* Chinois
+* Hé hé...
+ 
+|-<>
+Bisou !
+ 
+|-{
+Passez me voir dans mon bureau...
+ 
+|-D
+Ho ! Ho ! Ho !
+ 
+|-I
+Je dors
+ 
+|-O
+* La naissance
+* Fatigué, ennuyé
+* Je bâille / je ronfle
+ 
+|-P
+* Réaction face à du code C dégueulasse
+* Beleb beleb !
+ 
+|:-)
+Gros sourcils
+ 
+|:-|
+Excessivement rigide
+ 
+|:-O
+(Pas d'explication donnée)
+ 
+|:['
+Groucho Marx
+ 
+|^o
+Je ronfle
+ 
+||
+Messages au sujet des voitures ou des 4x4
+ 
+||*(
+On se sert la main ?
+ 
+||*)
+On se sert la main !
+ 
+|~(
+On vient de me casser le nez
+ 
+|I
+Je dors
+ 
+}(:-(
+Une moumoute et un peu trop de vent...
+ 
+}:-(
+Bête à cornes
+ 
+}:-(
+Moumoute à l'envers
+ 
+}:-)
+Une raie au milieu, un peu décoiffée
+ 
+}:-<
+Miaou !
+ 
+}:^#})
+Décoiffé, grosse moustache, nez pointu et double menton
+ 
+~ :-(
+* Très en colère
+* net.flame
+ 
+~'v
+(profil)
+ 
+~=
+Un briquet, pour annoncer un flaming
+ 
+~==
+Flame à suivre (Bougie déjà allumé)
+ 
+~~:-(
+net.flame
+ 
+~~\8-O
+Je devrais réparer les fils dénudés de mon terminal
+ 
+~~~\8-O
+Trop tard...
+ 
+~~~~~8}
+Serpent
+ 
+~~~c___
+La plage
+ 
+~M`'~
+Un chameau
+ 
+0-(
+Plongeur avec un masque cassé
+ 
+0-)
+* Cyclope
+* Plongeur
+ 
+0:-)
+Ange
+ 
+2B|^2B
+Shakespeare (pour programmeur C)
+ 
+2B|!2B
+Shakespeare (pour programmeur C, variante signalée par un lecteur dont l'adresse était invalide)
+ 
+3:*>
+Un cerf
+ 
+3:-)
+Bart Simpson
+ 
+3:-o
+Meuh !
+ 
+3:[
+Attention, il va charger !
+ 
+3:]
+Meuh !
+ 
+3:o[
+net.pets
+ 
+4:-)
+George Washington
+ 
+5:-)
+Elvis Presley
+ 
+6\/)
+éléphant
+ 
+7:)
+Ronald Reagan
+ 
+7:-)
+Fred Flintstone
+ 
+7:^]
+Ronald Reagan
+ 
+8
+L'infini
+ 
+8 :-)
+Un wizard
+ 
+8 :-I
+net.unix-wizards
+ 
+8(:-)
+* Mousquetaire
+* Walt Disney
+ 
+8)
+Une grenouille
+ 
+8*)
+Des lunettes et une moustache
+ 
+8-#
+La mort...
+ 
+8-)
+* Tout excité !
+* J'ai des lunettes (de soleil ou non)
+* Miam miam !
+* Je suis nageur
+ 
+8-*
+Je viens de manger un piment bien rouge
+ 
+8-]
+Whaou !
+ 
+8-|
+Suspense / énorme surprise
+ 
+8-O
+O mon Dieu !! (juste après, rm -rf *, )
+ 
+8-O--*
+Je me suis tapé sur le doigt avec un marteau
+ 
+8-o
+Mr. Bill
+ 
+8-P
+Réaction au café de la cafétéria de la fac
+ 
+8:)
+Cochon
+ 
+8:-)
+* Les lunettes sur le front
+* Je suis un wizard
+* Je suis une petite fille
+ 
+8:-I
+Net.unix-wizards
+ 
+8:]
+Un gorille
+ 
+8=:-)
+Un chef cuisinier
+ 
+8===>
+Tête de noeud
+ 
+8^
+Poulet
+ 
+8_)
+Fais gaffe, ton nez se tire !
+ 
+8b
+Grenouille coquine
+ 
+8P
+Grenouille qui tire la langue
+ 
+B)
+Grenouille qui porte des lunettes de soleil
+ 
+B-(8
+Lunettes, noeud pap', et je tire la gueule
+ 
+B-)
+* Allons à la plage, les amis !
+* Batman
+* Lunettes de soleil ou à grosses montures
+ 
+B-)-[<
+Lunettes de soleil et slip de bain
+ 
+B-|
+Lunettes de soleil pas chères
+ 
+B-D
+Rire avec des lunettes de soleil
+ 
+B:-)
+Lunettes (de soleil) sur le front
+ 
+B^)
+Grosses lunettes sur un nez tordu
+ 
+C:#
+Joueur de foot (US)
+ 
+C:-)
+La grosse tête
+ 
+C=:-)
+Un chef (de cuisine)
+ 
+C=>8*)
+Un chef diabolique avec des lunettes et une moustache
+ 
+C|:-=
+Charlie Chaplin
+ 
+d :-o
+Chapeau bas pour votre idée
+ 
+d.'v
+(profil) Je porte un chapeau melon
+ 
+d:-)
+Joueur de baseball
+ 
+d8=
+Un cochon avec un chapeau melon
+ 
+E-:-)
+Je suis radio amateur
+ 
+E-:-I
+Je suis radio amateur
+ 
+E:-)
+Je suis radio amateur
+ 
+EK(
+Frankenstein
+ 
+g-)
+smiley avec un pince-nez
+ 
+oo---oo-Bo
+semi-remorque se déplaçant vers la droite
+ 
+i-=<***i
+DANGER : possède un lance-flammes
+ 
+K:P
+Un petit garçon facétieux
+ 
+L'homme invisble
+ 
+L:-)
+Jeune diplômé
+ 
+M-)
+Je ne vois pas de problème
+ 
+M:-)
+Salut militaire
+ 
+O |-)
+net.religion
+ 
+O 8-)
+Un ange heureux
+ 
+O+
+Je suis une femme
+ 
+O-&-<
+Les bras croisés
+ 
+o-)
+Cyclope
+ 
+O-)
+Plongeur
+ 
+o-<:-{{{
+Papa Noël
+ 
+O-G-<
+Se montrer du doigt
+ 
+O-S-<
+Je suis très pressé
+ 
+O-Z-<
+Je suis très pressé (dans l'autre sens)
+ 
+o/
+Main levée
+ 
+O:-)
+Je suis un ange (l'innocence du halo)
+ 
+o=
+Une chandelle qui brûle (pour les flames)
+ 
+o>-<|=
+N'a d'intérêt que pour les femmes
+ 
+o>8<|=
+Messages au sujet des femmes intéressantes
+ 
+O|-)
+net.religion
+ 
+oF-oo--oo
+Semi-remorque partant vers la gauche
+ 
+OO
+Plein phares sur un message
+ 
+oo
+Quelqu'un a oublié ses phares...
+ 
+oo-
+Troublé, confus
+ 
+O>--<
+Piéton écrasé
+ 
+P-)
+Borgne avec un bandeau
+ 
+pp#
+Vache
+ 
+}:o
+Une autre vache
+ 
+pq`#'
+Taureau
+ 
+Q:-)
+Jeune diplômé (à l'américaine)
+ 
+q:-)
+Casquette de baseball inversée
+ 
+R-)
+Lunettes cassée
+ 
+X(8-{)}
+Des lunettes, une moustache et une barbe
+ 
+X-(
+net.suicide
+ 
+:-Pd-:
+French kiss (envoyé - et imaginé - par Charles Boone)
+ 
+( )==[ ];:;:;:;:;:;::>
+Une épée (envoyé par Timothée Graf)
+ 
+Attention. Ce qui suit n'est pas destiné aux tout-petits !
+  
+
+ 
+
+Vous aurez été prévénu !
+  
+
+COMPRIS ?
+  
+
+Bon, en tout cas, y'a plus besoin de tourner la tête sur le côté...
+
+O-
+Un Mexicain qui fait pipi (vu d'avion)
+ 
+-O-
+Un Mexicain en velo
+ 
+-O-O-
+Des Mexicains sur un tandem
+ 
+O~
+O-
+O~
+3 Mexicains qui font pipi. Celui du milieu est en train de raconter une histoire drôle.
+ 
+O-O
+Un Mexicain avec une Mexicaine
+ 
+O-O-
+Un Mexicain avec un Mexicain
+ 
+O~~~
+O-
+O-
+Un Mexicain qui se marre parce qu'il pisse plus loin que ses copains
+ 
+O-O-O-O-O-O-
+Une farandole de vieux grecs dans une fête Mexicaine
+ 
+O<
+Un Mexicain qui a deux bistouquettes...
+ 
+---EO
+Un Mexicain avec une fourche dans le cul
+ 
+.......O
+Un Mexicain qui a marché dans une crotte de chien (du pied droit, il paraît que ca porte bonheur...)
+ 
+OOOOOOO
+Un régiment de Mexicains
+ 
+OB
+Une Mexicaine en wonderbra
+ 
+OB-
+Un transsexuel Mexicain
+ 
+OB-O
+Une Mexicaine en wonderbra qui fait des crêpes
+ 
+OB(OO)O
+Un couple de Mexicains dans une pizzeria
+ 
+(_!_)
+Un cul normal
+ 
+(__!__)
+Un gros cul
+ 
+(!)
+Un cul mince
+ 
+(_._)
+Un cul plat
+ 
+(_*_)
+Un cul à rosace
+ 
+{_!_}
+Un cul ridé
+ 
+(_o_)
+Un cul avec beaucoup de "kilométrage"
+ 
+(_O_)
+Un cul avec encore plus de "kilométrage"
+ 
+(_X_)
+Un cul censuré
+ 
+(_$_)
+Un cul de grande valeur
+ 
+[_T_]
+Un cul très "carré"
+ 
+(_:_)
+Un cul très étrange
+ 
+(_@_)
+Un cybercul
+ 
+(_?_)
+Un cul mystérieux
+ 
+(_#_)
+Un cul blessé
+ 
+(__)
+Un cul fermé
+ 
+(_%_)
+Un cul à hémorroïdes
+ 
+(o)(o)
+Seins parfaits
+ 
+( + )( + )
+Seins en silicone
+ 
+(*)(*)
+Seins avec tétons hauts perchés
+ 
+(@)(@)
+Seins avec grands tétons
+ 
+(oYo)
+Seins "push-up"
+ 
+(^)(^)
+Seins ayant froid
+ 
+(o)(O)
+Seins dépareillés
+ 
+(:o)(o)
+Seins mordus par un vampire
+ 
+\o/\o/
+Les seins de la grand-mère
+ 
+( - )( - )
+Seins aplatis contre la porte de la douche
+ 
+|o||o|
+Seins d'androïde
+ 
+()()
+Seins de Kate Moss
+ 
+( o Y o )
+Seins pour poser dans Playboy
+ 
+ Programmation programmation
+La programmation par la pratique
+Script de support technique Apple (trouvé sur une des listes de Macfr) :
+
+
+Set LeTelephone to "Dring Dring"
+Set LeClient to LeNomDuClientGonflantQuiAppelle
+Set NumeroClient to LeNumeroConfidentielDuClientGonflantQuiAppelle
+
+
+when hearing LeTéléphone
+tell application "Prend Telephone"
+activate
+
+--Les lignes suivantes servent à se présenter une fois le téléphone
+décroché--
+     set NomTechnicien to MonNom
+          if HumeurDuMoment = "Bonne"
+               set TonParole to "VoixChaleureuse"
+               set TechVolume to 3
+               speak "Apple Assistance bonjour" & NomTechnicien & "à
+l"appareil.", with volume = TechVolume and voice = TonParole
+          else
+               set TonParole to "VoixAgressive"
+               set TechVolume to 5
+               speak "Allo, quel est le problème ?", with volume =
+TechVolume and voice = TonParole
+          end if
+
+
+--Les lignes suivantes servent à faire donner le nom du client une fois
+le téléphone décroché--
+
+     speak "Puis-je avoir votre numéro client ?" with volume =
+TechVolume and voice = TonParole
+          
+          if LeClient answers "Désolé, je n'ai pas de numéro de client"
+and HumeurDuMoment = "Bonne"
+               speak "Désolé, il m'est impossible de vous aider car
+vous n'êtes point référencé auprès d'Apple Assistance. Je vous
+transmets au standard afin que nous procédions à votre enregistrement."
+               redirect LeTelephone to LeStandard
+          else
+                 set TonParole to "Kill Kill Destroy"
+                 speak "Mais comment vous avez pu appeler alors ? Votre
+problème, je m'en tape, vous avez qu'à contacter votre revendeur" with
+volume = 7 and voice = TonParole
+                    set LeTelephone to RaccrocheViolemment
+          end if
+end tell
+
+--Si le client donne son numéro de client, il faut l'entrer dans la
+base Clients. Les lignes suivantes déterminent le comportement à avoir
+si le numéro de client ne ressort pas--
+
+     try
+          search NumeroClient in BaseClients
+     on error
+          set TonParole to "PassablementEnervé"
+          set TechVolume to 1     
+          speak "Putain de base à la con !" with volume = TechVolume
+and voice = TonParole
+     end try
+
+-- Il va falloir désormais répondre à la question. La séquence suivante
+enclenche le processus de recherche automatique de solutions aux
+problèmes du client--
+
+tell application "Répondre à la question"
+activate
+     set TonParole to "QuestionSansAucuneAttention"
+     speak "Bien, quel est le problème ?" with volume = current and
+voice = TonParole
+     hear LeClient without listening
+     set TonParole to "Compréhensif"
+     speak "Oui... D'accord... Hmmm... Ok, très bien." with volume 2
+and voice = TonParole but without attention
+
+     set LeProblèmeDuClient to LeClientLuiMême
+     set BlahBlahBlah to CeQueLeClientEssaied'Expliquer
+
+when BlahBlahBlah = 0
+     set TonParole to "Ayons l'air d'y comprendre quelque chose"
+     set TechVolume to 3
+     speak "Je vais essayer de trouver une solution." with volume =
+TechVolume and voice = TonParole
+
+wait idle with timer=120
+     set TonParole to "Victorieux"
+     set TechVolume to 3
+     speak "J'ai peut-être trouvé !" with volume = TechVolume and voice
+= TonParole
+     
+-- Il n'est plus possible de reculer maintenant, il faut trouver une
+réponse. --
+-- Les lignes suivantes servent à guider le "troubleshooting"--
+
+     set LaRéponseBateau to "Reconstruire le Bureau"
+     set TonParole to "Conseil amical"
+     speak "Il va falloir essayer de" & LaRéponseBateau with volume =
+current and voice = TonParole
+     set
+
+     wait RéponseClient
+     if RéponseClient = "Ca marche !"
+          set TonParole to "Super content"
+          set TechVolume to 5
+          speak "Et bien voilà une bonne chose de faite !" with volume
+= TechVolume and voice = TonParole
+     else
+          
+          -- Il faut envisager la situation où la solution nª1 ne
+fonctionne pas --
+
+          think "Et merde..." with stay silent
+          set TonParole to "Songeur"
+          set TechVolume to 4
+          speak "Bon, on va essayer autre chose..." with volume =
+TechVolume and voice = TonParole
+          set LaRéponseBateau to "redémarrer sans extensions"
+          set TonParole to "Conseil péremptoire"
+          speak "Essayez maintenant de" & LaRéponseBateau with volume =
+current and voice = TonParole
+               
+          if RéponseClient = "Enfin, ça marche !!!"
+               think "Pfiou, je l'ai échappé belle" with stay silent
+               set TonParole to "Paternel"
+               set TechVolume to 5
+               speak "Vous avez apparament un conflit d'extensions. je
+ne peux malheureusement rester trop longtemps avec vous pour rechercher
+quelle est l'extension fautive, mais je ne saurais trop vous conseiller
+de vous procurer Conflict Catcher qui sait très bien gérer ce genre de
+problèmes." with volume = TechVolume and voice = TonParole
+               think "Demander une commission sur les ventes à Casady &
+Greene" with stay silent
+          else
+
+          -- Et si la solution nª2 est inefficace, on peut tenter la
+numéro 3 --
+               think "il est vraiment trop blaireau lui..." with stay
+silent
+               set LaRéponseBateau to "Réinstaller le Système"
+               set TonParole to "Conseil péremptoire"
+               speak "Il va falloir essayer de" & LaRéponseBateau with
+volume = current and voice = TonParole
+               wait RéponseClient
+               if RéponseClient = "Enfin, ça marche !"
+                    think "Pfiou, je l'ai échappé belle" with stay
+silent
+                         set TonParole to "Joyeux"
+                    set TechVolume to 5
+                    speak "Vous voyez, on a réussi !!!" with volume =
+TechVolume and voice = TonParole
+               else
+
+                    -- Dans le cas (probable) où la réponse nª3 ne
+donne aucun résultat, il faudra alors tenter la solution ultime --
+                    think "Mais pourquoi j'ai pris ce boulot moi ? Je
+voulais tellement travailler chez MicroSoft..." with stay silent
+                         set HumeurDuMoment = "Massacrante"
+
+                         -- Il arrive parfois que le technicien soit un
+peu énervé. Cette routine tente de --
+                         -- voir si il y a maîtrise de soi de la part
+du technicien ou non. Dans le cas où il --
+                         -- n'y a plus de contrôle, une routine externe
+prend le dessus Merci à PM pour sa--
+                         -- contribution essentielle à la création de
+cette routine --
+                    try
+                              set MaitriseDeSoi to "Contrôle total de
+la situation"
+                    on error
+                         throw CasqueAudio on EcranMac
+                    speak "Fais chier bordel !!!"
+                    end try
+
+                    set LaRéponseBateau to "Formater le disque dur à
+bas niveau avec données à zero et réinstaller la dernière version du
+logiciel Système"
+                    set TonParole to "Décision douloureuse"
+                    speak "Je pense malheureusement qu'il n'y a pas
+d'autre choix que de" & LaRéponseBateau with volume = current and voice
+= TonParole
+                    wait RéponseClient
+                         if RéponseClient = "Ca marche ! Enfin ! Quel
+bordel ça a été !"
+                         think "Pourvu qu'il ne rappelle pas..." with
+stay silent
+                         set TonParole to "Complètement hypocrite"
+                         set TechVolume to 5
+                         speak "Oui, mais vous avez avez été talentueux
+aussi !" with volume = TechVolume and voice = TonParole
+                    else
+                         set TonParole to "Regrets eternels éhontés"
+                         speak "Je crains malheureusement que notre
+support ne soit pas apte à vous dépanner, le problème vient sûrement
+d'un produit MicroSoft. Appelez-les et expliquez-leur le problème, ils
+ont sûrement une solution." with volume = 3 and voice = TonParole
+                          end if
+               end if
+          end if
+     end if
+end tell
+
+tell application "Remerciements"
+activate
+set TonParole to "Remerciements hypocrites"
+speak "Notre centre de support vous remercie d'avoir appelé et vous
+souhaite une excellente journée !" with volume = current and voice =
+TonParole
+set LeTelephone to "Raccroché"
+end tell
+
+tell application GameBoy
+activate
+     play "Super Mario Land"
+end tell
+Quelques implémentations du programme « Hello, world » :
+
+
+Terminale
+  10 PRINT "HELLO WORLD" 
+  20 END 
+---------------------------------------------------------------- 
+  DUT 1ère année 
+  program HELLO(input, output) 
+  begin 
+  writeln('HELLO WORLD') 
+  end. 
+---------------------------------------------------------------- 
+  DUT 2ème année 
+  (defun HELLO 
+  (print 
+  (cons 'HELLO (list 'WORLD)) 
+  ) 
+  ) 
+---------------------------------------------------------------- 
+  Fraîchement sorti de l'école 
+  #include  
+  void main(void) 
+  { 
+  char *message[] = {"HELLO ", "WORLD"}; 
+  int i; 
+  for(i = 0; i < 2; ++i) 
+  printf("%s", message[i]); 
+  printf("\n"); 
+  } 
+---------------------------------------------------------------- 
+  Professionnel très expérimenté 
+  #include  
+  #include  
+  class string 
+  { 
+  private: 
+  int size; 
+  char *ptr; 
+  public: 
+  string() : size(0), ptr(new char('\0')) {} 
+  string(const string &s) : size(s.size) 
+  { 
+  ptr = new char[size + 1]; 
+  strcpy(ptr, s.ptr); 
+  } 
+  ~string() 
+  { 
+  delete [] ptr; 
+  } 
+  friend ostream &operator <<(ostream &, const string &); 
+  string &operator=(const char *); 
+  }; 
+  ostream &operator<<(ostream &stream, const string &s) 
+  { 
+  return(stream << s.ptr); 
+  } 
+  string &string::operator=(const char *chrs) 
+  { 
+  if (this != &chrs) 
+  { 
+  delete [] ptr; 
+  size = strlen(chrs); 
+  ptr = new char[size + 1]; 
+  strcpy(ptr, chrs); 
+  } 
+  return(*this); 
+  } 
+ 
+  int main() 
+  { 
+  string str; 
+  str = "HELLO WORLD"; 
+  cout << str << endl; 
+  return(0); 
+  } 
+---------------------------------------------------------------- 
+  Professionnel vraiment très très expérimenté 
+  [ 
+  uuid(2573F8F4-CFEE-101A-9A9F-00AA00342820) 
+  ] 
+  library LHello 
+  { 
+  // bring in the master library 
+  importlib("actimp.tlb"); 
+  importlib("actexp.tlb"); 
+ 
+  // bring in my interfaces 
+  #include "pshlo.idl" 
+  [ 
+  uuid(2573F8F5-CFEE-101A-9A9F-00AA00342820) 
+  ] 
+  cotype THello 
+  { 
+  interface IHello; 
+  interface IPersistFile; 
+  }; 
+  }; 
+ 
+  // needed typelibs 
+  importlib("actimp.tlb"); 
+  importlib("actexp.tlb"); 
+  importlib("thlo.tlb"); 
+ 
+  [ 
+  uuid(2573F891-CFEE-101A-9A9F-00AA00342820), 
+  aggregatable 
+  ] 
+  coclass CHello 
+  { 
+  cotype THello; 
+  }; 
+  }; 
+  #include "ipfix.hxx" 
+  extern HANDLE hEvent; 
+  class CHello : public CHelloBase 
+  { 
+  public: 
+  IPFIX(CLSID_CHello); 
+  CHello(IUnknown *pUnk); 
+  ~CHello(); 
+  HRESULT __stdcall PrintSz(LPWSTR pwszString); 
+  private: 
+  static int cObjRef; 
+  }; 
+  #include "thlo.h" 
+  #include "pshlo.h" 
+  #include "shlo.hxx" 
+  #include "mycls.hxx" 
+  int CHello::cObjRef = 0; 
+  CHello::CHello(IUnknown *pUnk) : CHelloBase(pUnk) 
+  { 
+  cObjRef++; 
+  return; 
+  } 
+  HRESULT __stdcall CHello::PrintSz(LPWSTR pwszString) 
+ 
+  { 
+  printf("%ws\n", pwszString); 
+  return(ResultFromScode(S_OK)); 
+  } 
+  CHello::~CHello(void) 
+  { 
+  // when the object count goes to zero, stop the server 
+  cObjRef--; 
+  if( cObjRef == 0 ) 
+  PulseEvent(hEvent); 
+  return; 
+  } 
+  #include "pshlo.h" 
+  #include "shlo.hxx" 
+  #include "mycls.hxx" 
+  HANDLE hEvent; 
+  int _cdecl main( 
+  int argc, 
+  char * argv[] 
+  ) 
+  { 
+  ULONG ulRef; 
+  DWORD dwRegistration; 
+  CHelloCF *pCF = new CHelloCF(); 
+  hEvent = CreateEvent(NULL, FALSE, FALSE, NULL); 
+  // Initialize the OLE libraries 
+  CoInitializeEx(NULL, COINIT_MULTITHREADED); 
+  CoRegisterClassObject(CLSID_CHello, pCF, CLSCTX_LOCAL_SERVER, 
+  REGCLS_MULTIPLEUSE, &dwRegistration); 
+  // wait on an event to stop 
+  WaitForSingleObject(hEvent, INFINITE); 
+  // revoke and release the class object 
+  CoRevokeClassObject(dwRegistration); 
+  ulRef = pCF->Release(); 
+  // Tell OLE we are going away. 
+  CoUninitialize(); 
+  return(0); 
+  } 
+  #include "pshlo.h" 
+  #include "shlo.hxx" 
+  #include "clsid.h" 
+  int _cdecl main( 
+  int argc, 
+  char * argv[] 
+  ) 
+  { 
+  HRESULT hRslt; 
+  IHello *pHello; 
+  ULONG ulCnt; 
+  IMoniker * pmk; 
+  WCHAR wcsT[_MAX_PATH]; 
+  WCHAR wcsPath[2 * _MAX_PATH]; 
+  // get object path 
+  wcsPath[0] = '\0'; 
+  wcsT[0] = '\0'; 
+  if( argc > 1) { 
+  mbstowcs(wcsPath, argv[1], strlen(argv[1]) + 1); 
+  wcsupr(wcsPath); 
+  } 
+  else { 
+  fprintf(stderr, "Object path must be specified\n"); 
+  return(1); 
+  } 
+
+---------------------------------------------------------------- 
+  Administrateur Système 
+  #include  
+  main() 
+  { 
+  char *tmp; 
+  int i=0; 
+  /* on y va bourin */ 
+  tmp=(char *)malloc(1024*sizeof(char)); 
+  while (tmp[i]="HELLO WOLRD"[i++]); 
+  /* Ooopps y'a une infusion ! */ 
+  i=(int)tmp[8]; 
+  tmp[8]=tmp[9]; 
+  tmp[9]=(char)i; 
+  printf("%s\n",tmp); 
+  } 
+ 
+---------------------------------------------------------------- 
+  Apprenti Hacker 
+  #!/usr/local/bin/perl 
+  $msg="HELLO, WORLD.\n"; 
+  if ($#ARGV >= 0) { 
+  while(defined($arg=shift(@ARGV))) { 
+  soutfilename = $arg; 
+  open(FILE, ">" . $outfilename) || die "Can't write 
+  $arg:$!\n"; 
+  print (FILE $msg); 
+  close(FILE) || die "Can't close $arg: $!\n"; 
+  } 
+  } else { 
+  print ($msg); 
+  } 
+  1; 
+---------------------------------------------------------------- 
+  Hacker très expérimenté 
+  % cc -o a.out ~/src/misc/bv/bv.c 
+  % a.out 
+
+---------------------------------------------------------------- 
+  Gourou des Hackers 
+  % cat 
+  HELLO, WORLD. 
+  ^D 
+---------------------------------------------------------------- 
+  Directeur 
+  mail -s "HELLO, WORLD." bob@b12 
+  Henri, pourrais-tu m'écrire un programme qui écrit "HELLO, WORLD." 
+  À l'écran? 
+  J'en ai besoin pour demain. 
+  ^D 
+---------------------------------------------------------------- 
+  Directeur senior 
+  % zmail Jean 
+  J'ai besoin d'un programme "HELLO, WORLD." Pour cette après-midi. 
+
+--------------------------------------------------------------- 
+  Président Directeur Général 
+  % letter 
+  letter: Command not found. 
+  % mail 
+  To: ^X ^F ^C 
+  % help mail 
+  help: Command not found. 
+  % bordel! 
+  !: Event unrecognized 
+  % logout 
+Pensez pur. Mes frères... pureté de la langue...
+Pureté
+Ceci est une liste de termes préconisés par différentes lois françaises.
+
+NB : si vous cliquez, souvenez-vous que je n'ai pas forcément le même avis que Le Législateur sur la signification de ces termes (e.g. ¤antémémoire¤ pour remplacer ¤cache¤ : « anté » signifie « avant ». Faites un schéma, allez voir ¤write-back¤ et vous comprendrez). Du coup, les définitions du JargonF ne sont que rarement les définitions officielles. Si ça vous amuse, faites une recherche dans le Journal Officiel !...
+
+¤accès direct¤ (1)
+¤accès séquentiel¤ (1)
+¤à documentation intégrée¤ (7)
+adresse de courrier électronique (6)
+¤adresse réticulaire¤ (8)
+adresse universelle (8)
+¤agenda électronique¤ (7)
+¤algorithmique¤ (4)
+¤amorce¤ (7)
+¤amorcer¤ (7)
+¤annuaire des domaines¤ (8)
+¤antémémoire¤ (3)
+¤anticrénelage¤ (6)
+¤appariement de formes¤ (4)
+¤appliquette¤ (8)
+¤ardoise électronique¤ (5)
+article (2)
+article de forum (8)
+autonome (1)
+¤autoroutes de l'information¤ (8)
+¤banque de données¤ (1)
+¤barrière de sécurité¤
+¤base de connaissances¤ (4)
+¤base de données¤ (1)
+¤biprocesseur¤ (1)
+¤bit¤ (2)
+¤bloc¤ (7)
+¤bogue¤ (2)
+¤boule de commande¤ (3)
+¤bureautique¤ (1)
+¤bus¤ (3)
+¤cadre¤ (4) (8)
+¤calculette¤ (2)
+¤calcul intensif¤ (7)
+¤causette¤ (8)
+¤clicher¤ (3)
+¤cliquer¤ (7)
+¤codet¤ (3)
+¤compatibilité¤ (1)
+¤concentrateur¤ (8)
+¤configurer¤ (7)
+¤connectabilité¤ (7)
+¤connexion¤ (7)
+¤connexité¤ (7)
+¤contribution¤ (8)
+¤coprocesseur¤ (7)
+¤courrier électronique¤ (6)
+¤courtier¤ (2)
+¤crénelage¤ (7)
+d'¤arrière-plan¤ (2)
+¤déboguer¤ (2)
+¤débogueur¤ (5)
+défaillance (5)
+défilement (3)
+¤descripteur¤ (2)
+¤de secours¤ (1)
+dévideur (3)
+¤didacticiel¤ (2)
+diffusion réticulaire (8)
+diffusion réticulaire systématique (8)
+diffusion sur la toile (8)
+diffusion systématique sur la toile (8)
+disque magnétique (1)
+¤disque numérique polyvalent¤ (8)
+disque optique (1)
+disque optique compact (4)
+¤distribution sélective¤
+¤disquette¤ (1)
+¤DOC¤ (4)
+¤donnée¤ (1)
+¤dorsale¤ (8)
+échange de données informatisé (7)
+écran pixel (5)
+écran pixélisé (5)
+¤écran tactile¤ (3)
+¤éditeur¤ (3)
+¤éditique¤ (5)
+¤en ligne¤ (1)
+¤étiquette¤ (5)
+évolution d'un système (5)
+¤extranet¤ (8)
+fac-sim (1)
+¤filtrage¤ (4)
+¤foire aux questions¤ (8)
+¤format¤ (2)
+¤formatage¤
+¤formater¤
+forme (4)
+¤forum¤ (8)
+¤fouineur¤ (4)
+¤fournisseur d'accès¤ (8)
+¤frimousse¤ (8)
+¤fusionner¤ (3)
+génie informatique (1)
+¤génie logiciel¤ (2)
+gérance de l'informatique (7)
+gestionnaire de périphérique (5)
+¤glisser-déposer¤ (8)
+¤grapheur¤ (3)
+¤grappe¤ (7)
+¤gratuiciel¤
+¤graticiel¤
+¤groupe¤ (7)
+¤heuristique¤ (4)
+¤hypertexte¤ (8)
+¤hypertextuel¤ (8)
+¤icône¤ (7)
+¤implanter¤ (4)
+¤implémenter¤ (4)
+¤incrément¤ (1)
+¤infographie¤ (1)
+¤information¤ (1)
+¤informatique¤ (2)
+¤ingénierie inverse¤ (5)
+¤instaurer¤ (2)
+¤instruction¤ (1)
+¤intelligence artificielle¤ (4)
+¤interactif¤ (1)
+¤interface¤ (1)
+¤internaute¤ (8)
+¤internet¤ (8)
+¤intranet¤ (8)
+¤invite¤ (3)
+¤langage à objets¤ (5)
+langage formel (2)
+langage orienté objets (5)
+¤listage¤ (1)
+¤lister¤ (1)
+¤localisateur universel¤
+¤logement¤ (7)
+¤logiciel¤ (1)
+¤logiciel médiateur¤ (8)
+¤logiciel à contribution volontaire¤ (5)
+logiciel ¤contributif¤ (5)
+logiciel de dessin (7)
+logiciel de groupe (5)
+logiciel de groupe de travail (5)
+logiciel public (5)
+¤ludiciel¤ (2)
+¤macroordinateur¤ (5)
+¤maintenance¤ (2)
+¤manche à balai¤ (2)
+¤mandataire¤ (8)
+¤mappage¤ (2)
+¤mappe¤ (2)
+¤mapper¤ (2)
+¤marquage¤ (3)
+¤matériel¤ (1)
+¤MÉL¤ (6)
+¤mémoire¤ (1)
+¤mémoire de masse¤ (1)
+¤mémoire morte¤ (1)
+mémoire ¤tampon¤ (2)
+¤mémoire vive¤ (1)
+message électronique (6)
+¤messagerie¤ électronique (3)
+microédition (5)
+¤micromisation¤ (5)
+¤micromiser¤ (5)
+microordinateur (5)
+¤microprocesseur¤ (1)
+¤microprogramme¤ (2)
+mise à niveau (5)
+mise en réseau (7)
+¤mode dialogué¤ (1)
+¤morphage¤
+¤mot-clé¤ (2)
+¤moteur d'exécution¤ (7)
+¤moteur d'inférence¤ (4)
+¤mouchard¤ (8)
+¤multiprocesseur¤ (1) (7)
+¤multiprogrammation¤ (1)
+¤multitraitement¤ (1)
+¤navigateur¤ (8)
+neurone artificiel (7)
+¤numérique¤ (1)
+¤numériser¤ (3)
+¤numériseur¤ (7)
+numéro d'urgence (5)
+¤octet¤ (7)
+¤ordinateur¤ (2)
+ordinateur bloc-notes (5)
+ordinateur de poche (5)
+ordinateur de table (5)
+¤ordinateur individuel¤ (2)
+¤ordinateur portable¤ (5)
+ordinateur portatif (5)
+¤page d'accueil¤ (8)
+panne (5)
+¤pare-feu¤
+¤partage de temps¤ (1)
+¤partagiciel¤
+¤passerelle¤ (8)
+¤permutation¤ (7)
+¤photostyle¤ (1)
+¤pilote¤ (5)
+¤pirate¤ (8)
+¤pixel¤ (3)
+¤pointeur¤ (2)
+¤police de caractères¤ (7)
+portabilité (1)
+¤processeur¤ (1)
+processeur ¤vectoriel¤ (3)
+producteur (2)
+¤progiciel¤ (1)
+programmation par objets (5)
+¤raccourci clavier¤ (7)
+raccourci au clavier (7)
+¤réamorcer¤ (7)
+¤recherche individuelle¤ (8)
+¤référentiel¤ (7)
+¤réinitialiser¤ (7)
+relancer (2)
+¤répertoire¤ (3)
+¤requête¤ (2)
+¤réseau informatique¤ (7)
+¤réseau local¤ (3)
+réseau neuronal (7)
+¤réseautique¤
+¤restaurer¤ (2)
+résumé (2)
+révision (3)
+¤réinitialiser¤ (7)
+¤RNA¤ (8)
+¤robotique¤ (1)
+¤scanneur¤ (7)
+schéma (4)
+¤scrutation¤ (7)
+secours informatique (5)
+¤serveur¤ (1) (3)
+¤serveur mandataire¤ (8)
+¤SGBD¤ (2)
+¤signet¤ (8)
+¤souris¤ (3)
+¤spoule¤ (2)
+¤surbrillance¤ (3)
+survol (3)
+¤synergiciel¤ (5)
+système d'adressage par domaines (8)
+système de gestion de base de données (2)
+système exclusif (5)
+système exclusif constructeur (5)
+¤système d'exploitation¤ (1)
+¤système expert¤ (4)
+¤tableur¤ (2)
+¤TAM¤ (8)
+¤tel écran-tel écrit¤ (5)
+¤téléinformatique¤ (1)
+télémaintenance (5)
+¤télématique¤ (1)
+¤télétraitement¤ (1)
+télétraitement par lots (1)
+¤tel-tel¤ (5)
+¤témoin de connexion¤ (8)
+¤temps réel¤ (1)
+¤terminal¤ (1)
+test de performance (2)
+texte intégral (en ~) (2)
+¤texteur¤ (5)
+¤tirage¤ (1)
+¤toile¤ (8)
+toile mondiale (8)
+toile d'araignée mondiale (8)
+¤tolérance aux pannes¤ (5)
+¤tolérant aux pannes¤ (5)
+traitement automatique des données (1)
+¤traitement de texte¤ (3)
+¤traitement par lots¤ (1)
+transporteur (2)
+¤triprocesseur¤ (1)
+¤tutoriel¤ (3)
+¤version¤ (2) (3)
+¤variabilité dimensionnelle¤
+¤visionneur¤ (8)
+¤visu¤ (1)
+¤visualiser¤ (1)
+visuel (1)
+
+(1) Journal Officiel du 17 janvier 1982.
+(2) Journal Officiel du 19 février 1984.
+(3) Journal Officiel du 7 mai 1987.
+(4) Journal Officiel du 16 septembre 1989.
+(5) Journal Officiel du 7 mars 1993.
+(6) Journal Officiel du 2 décembre 1997.
+(7) Journal Officiel du 10 octobre 1998.
+(8) Journal Officiel du 16 mars 1999.
