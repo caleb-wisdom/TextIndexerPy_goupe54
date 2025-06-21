@@ -1,6 +1,6 @@
 TextIndexerPy
 
-est une application en ligne de commande écrite en Python, conçu par les membres du groupe 54, suivant les instructions données par le professeur, elle permet d'analyser un ensemble de fichiers texte, les indexer, et permettre la recherche rapide de mots ou expressions.
+est une application indexeur de texte en ligne de commande écrite en Python, conçu par les membres du groupe 54, suivant les instructions données par le professeur, elle permet d'analyser un ensemble de fichiers texte, les indexer, et permettre la recherche rapide de mots ou expressions.
 
 ## Structure du projet
 
